@@ -103,8 +103,7 @@ Python 3.9+
 Clone the repository:
 
 
-git clone https://github.com/
-tanishkamane9/PLIS.git
+git clone https://github.com/tanishkamane9/PLIS.git
 cd PLIS
 
 
@@ -211,4 +210,5 @@ Future enhancements may include:
 Current Version: `v1.0.0-mvp`
 
 ---
+
 
