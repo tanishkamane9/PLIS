@@ -1,0 +1,13 @@
+{
+    "application": "payment-ser",
+    "environment": "prod",
+    "date": "2026-02-20",
+    "total_logs": 33,
+    "info_count": 17,
+    "warning_count": 5,
+    "error_count": 11,
+    "top_error_message": "Database timeout",
+    "peak_error_hour": "2026-02-20 09",
+    "error_rate": 0.3333333333333333,
+    "warning_rate": 0.15151515151515152
+}
